@@ -23,4 +23,8 @@ public class TestController {
         return "addAMethod";
     }
 
+    public String what() {
+        return "what?";
+    }
+
 }
