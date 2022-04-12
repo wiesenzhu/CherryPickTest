@@ -6,7 +6,6 @@ package com.wiesen.cherrypicktest;
  */
 public class TestController {
 
-
     public String hello() {
         return "hello";
     }
