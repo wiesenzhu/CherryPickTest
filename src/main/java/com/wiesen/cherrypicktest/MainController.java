@@ -8,4 +8,9 @@ public class MainController {
     public void mmca() {
         String a;
     }
+
+    public void asdf() {
+        String a ="do somethind" ;
+    }
 }
+
