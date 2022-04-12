@@ -31,4 +31,8 @@ public class TestController {
         return "this is a newly added method";
     }
 
+    public void mc() {
+
+    }
+
 }
