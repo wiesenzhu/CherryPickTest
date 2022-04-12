@@ -35,7 +35,7 @@ public class TestController {
 
     }
     public void mb() {
-
+        String a = "modify mb";
     }
 
     public void md() {
