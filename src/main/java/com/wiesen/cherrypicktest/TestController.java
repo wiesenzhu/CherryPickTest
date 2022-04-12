@@ -31,10 +31,13 @@ public class TestController {
         return "this is a newly added method";
     }
 
-    public void mc() {
+    public void ma() {
 
     }
     public void mb() {
+
+    }
+    public void mc() {
 
     }
 
