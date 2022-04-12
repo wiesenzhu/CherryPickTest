@@ -20,7 +20,15 @@ public class TestController {
     }
 
     public String addAMethod() {
-        return "addAMethod";
+        return "addAMethod and now i wrote something more";
+    }
+
+    public String what() {
+        return "what is your name?";
+    }
+
+    public String hehi() {
+        return "this is a newly added method";
     }
 
 }
