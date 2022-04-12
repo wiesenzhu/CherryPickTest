@@ -5,4 +5,7 @@ package com.wiesen.cherrypicktest;
  * @date 2022/4/12 10:15
  */
 public class MainController {
+    public void mmca() {
+        String a;
+    }
 }
