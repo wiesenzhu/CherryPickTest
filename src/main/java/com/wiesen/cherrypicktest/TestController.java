@@ -15,7 +15,12 @@ public class TestController {
     }
 
     public String hi() {
-        return "hi";
+        String a = "modified this method";
+        return a;
+    }
+
+    public String addAMethod() {
+        return "addAMethod";
     }
 
 }
