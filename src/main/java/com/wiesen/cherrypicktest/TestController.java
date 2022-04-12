@@ -34,5 +34,8 @@ public class TestController {
     public void mc() {
 
     }
+    public void mb() {
+
+    }
 
 }
